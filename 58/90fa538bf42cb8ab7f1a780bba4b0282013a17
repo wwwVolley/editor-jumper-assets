@@ -1,0 +1,19 @@
+EDITOR-JUMPER-LICENSE.md
+  s_db860c757a4b5d::t_0efd8f708d4dba 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "5890fa538bf42cb8ab7f1a780bba4b0282013a17",
+  "prompts": {},
+  "sessions": {
+    "s_db860c757a4b5d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06567-dd1f-78b3-905c-0685d7903c04",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "wangningtao <wangningtao@rongcloud.cn>"
+    }
+  }
+}
