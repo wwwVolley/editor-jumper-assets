@@ -1,0 +1,19 @@
+EDITOR-JUMPER-README-ZH.md
+  s_db860c757a4b5d::t_494a4f80cb1a2f 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "2d559841b27e52162eca298e860c2a706d461990",
+  "prompts": {},
+  "sessions": {
+    "s_db860c757a4b5d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06567-dd1f-78b3-905c-0685d7903c04",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "wangningtao <wangningtao@rongcloud.cn>"
+    }
+  }
+}
